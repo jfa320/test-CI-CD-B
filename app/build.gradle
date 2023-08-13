@@ -20,7 +20,7 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
-    implementation 'com.github.jfa320:test-CI-CD-A:-SNAPSHOT'
+    implementation 'com.github.jfa320:test-CI-CD-A:-main-SNAPSHOT'
 }
 
 testing {
